@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Raquets",
+      "adoption": "₱49-₱120",
+      "variants": [
+        {
+          "name": "Kawasaki Aurora 7 light",
+          "image": "aurora7",
+          "price": "₱49"
+        },
+        {
+          "name": "Kawasaki Baghonor s6",
+          "image": "baghonors6",
+          "price": "₱59"
+        },
+        {
+          "name": "Kawasaki Master 900",
+          "image": "master900",
+          "price": "₱120"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Shoes",
+      "adoption": "₱75-₱120",
+      "variants": [
+        {
+          "name": "Kawasaki 900",
+          "image": "shoe1",
+          "price": "₱115"
+        },
+        {
+          "name": "Kawasaki Traverse",
+          "image": "traverse",
+          "price": "₱75"
+        },
+        {
+          "name": "Kawasaki Schafer",
+          "image": "schafer",
+          "price": "₱120"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "String",
+      "adoption": "₱70-₱170",
+      "variants": [
+        {
+          "name": "Kawasaki Ksb 90",
+          "image": "ksb90", 
+          "price": "₱70"
+        },
+        {
+          "name": "Kawasaki Elite 65",
+          "image": "elite65",
+          "price": "₱120"
+        },
+        {
+          "name": "Kawasaki Ksb 80",
+          "image": "ksb80",
+          "price": "₱170"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Socks",
+      "adoption": "₱100-₱500",
+      "variants": [
+        {
+          "name": "Kawasaki k1f00",
+          "image": "socks1",
+          "price": "₱25"
+        },
+        {
+          "name": "Kawasaki Bs334",
+          "image": "socks2",
+          "price": "₱25"
+        },
+        {
+          "name": "Kawasaki 51045",
+          "image": "socks3",
+          "price": "₱35"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sandals",
+      "adoption": "₱100-₱500",
+      "variants": [
+        {
+          "name": "Sanadals k1f00",
+          "image": "socks1",
+          "price": "₱25"
+        },
+        {
+          "name": "Rubot",
+          "image": "socks2",
+          "price": "₱25"
+        },
+        {
+          "name": "Kawasaki 51045",
+          "image": "socks3",
+          "price": "₱35"
+        }
+      ]
+    }
+  ]
+}
